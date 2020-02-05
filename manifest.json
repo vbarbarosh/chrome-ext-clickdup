@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Click Click Click to Duplicate Duplicate Duplicate",
+    "name": "Click to Duplicate",
     "version": "1.0",
     "author": "Vladimir Barbarosh <vladimir.barbarosh@gmail.com>",
-    "description": "Click to Duplicate",
+    "description": "Click Click Click to Duplicate Duplicate Duplicate",
     "homepage_url": "https://github.com/vbarbarosh/chrome-ext-clickdup",
     "background": {
         "persistent": false,
